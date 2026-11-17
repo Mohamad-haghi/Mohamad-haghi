@@ -34,8 +34,6 @@ I welcome project-based collaborations with businesses looking to improve their 
 ---
 *Selected projects include demos and concept prototypes; they are presented as portfolio work, not as claims of live client deployments.*
 
-### معرفی فارسی
-
 من محمد حقی هستم؛ طراح و توسعه‌دهنده وب‌سایت‌های تجاری و شرکتی.
 
 تمرکز من بر طراحی وب‌سایت‌هایی است که به تولیدکنندگان، تأمین‌کنندگان صنعتی و کسب‌وکارهای B2B کمک می‌کنند محصولات و خدمات خود را حرفه‌ای‌تر معرفی کنند.
